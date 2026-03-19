@@ -54,11 +54,11 @@ The input clock **3.125 MHz** is divided using a counter to generate an output c
 ---
 
 ## File Structure
-
+```
 pwm_generator/
   - pwm_generator.v
   - README.md
-
+```
 ---
 
 ## Tools Used
